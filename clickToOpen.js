@@ -301,7 +301,24 @@ var courseVersion={
     "DEV290x":{
         "currentVersion":"2018_T3",
         "courseName":"電腦視覺與影像分析"
+    },
+    "DAT280x":{
+        "currentVersion":"2018_T3",
+        "courseName":"Essential Math for Machine Learning: R Edition"
+    },
+    "DAT274x":{
+        "currentVersion":"2018_T3",
+        "courseName":"Data Science Research Methods: R Edition"
+    },
+    "DAT276x":{
+        "currentVersion":"2018_T3",
+        "courseName":"Principles of Machine Learning: R Edition"
+    },
+    "DAT102x":{
+        "currentVersion":"2018_T3",
+        "courseName":"Microsoft Professional Capstone : Data Science"
     }
+    
 };
 
 $(document).ready(function() {
