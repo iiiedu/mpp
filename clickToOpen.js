@@ -317,6 +317,10 @@ var courseVersion={
     "DAT102x":{
         "currentVersion":"2018_T3",
         "courseName":"Microsoft Professional Capstone : Data Science"
+    },
+    "DAT264x":{
+        "currentVersion":"2018_T3",
+        "courseName":"期末整合專案 - 人工智慧"
     }
     
 };
