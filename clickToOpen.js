@@ -59,7 +59,7 @@ var courseVersion={
         "courseName":"DevOps Practices and Principles"
     },
     "DAT207x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T3",
         "courseName":"Analyzing and Visualizing Data with Power BI"
     },
     "DEV211.1x":{
@@ -263,7 +263,7 @@ var courseVersion={
         "courseName":"Architecting Distributed Cloud Applications"
     },
     "DAT249x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T3",
         "courseName":"資料分析的倫理與道德"
     },
     "AZURE204x":{
