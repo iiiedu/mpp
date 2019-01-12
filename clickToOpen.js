@@ -321,7 +321,24 @@ var courseVersion={
     "DAT264x":{
         "currentVersion":"2018_T4",
         "courseName":"期末整合專案 - 人工智慧"
-    }
+    },
+    "DAT220x":{
+        "currentVersion":"2018_T3",
+        "courseName":"Delivering a Data Warehouse in the Cloud"
+    },
+    "DAT223.1x":{
+        "currentVersion":"2018_T2",
+        "courseName":"Processing Big Data with Azure Data Lake Analytics"
+    },
+    "DAT223.2x":{
+        "currentVersion":"2018_T4",
+        "courseName":"Processing Real-Time Data Streams in Azure"
+    },
+    "DAT223.3x":{
+        "currentVersion":"2018_T2",
+        "courseName":"Orchestrating Big Data with Azure Data Factory"
+    },
+
     
 };
 
