@@ -67,7 +67,7 @@ var courseVersion={
         "courseName":"Introduction to HTML and JavaScript"
     },
     "DAT206x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T4",
         "courseName":"Analyzing and Visualizing Data with Excel"
     },
     "AZURE203x":{
@@ -79,7 +79,7 @@ var courseVersion={
         "courseName":"Microsoft Azure Virtual Machines"
     },
     "DAT236x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T4",
         "courseName":"深度學習解義"
     },
     "DEV276x":{
@@ -91,7 +91,7 @@ var courseVersion={
         "courseName":"Logic and Computational Thinking"
     },
     "DEV279x":{
-        "currentVersion":"2018_T3",
+        "currentVersion":"2018_T4",
         "courseName":"Building Interactive Prototypes using JavaScript"
     },
     "DAT251x":{
@@ -111,7 +111,7 @@ var courseVersion={
         "courseName":"Implementing ETL with SQL Server Integration Services"
     },
     "DEV280x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T4",
         "courseName":"Building Functional Prototypes using Node.js"
     },
     "AZURE205x":{
@@ -123,7 +123,7 @@ var courseVersion={
         "courseName":"Essential Statistics for Data Analysis using Excel"
     },
     "DAT248x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T4",
         "courseName":"Analytics Storytelling for Impact"
     },
     "DEV284x":{
@@ -159,7 +159,7 @@ var courseVersion={
         "courseName":"資料科學的Python導論"
     },
     "DEV281x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T3",
         "courseName":"Introduction to ReactJS"
     },
     "DEV225x":{
@@ -187,7 +187,7 @@ var courseVersion={
         "courseName":"Azure Security and Compliance"
     },
     "DAT221x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T4",
         "courseName":"Introduction to NoSQL Data Solutions"
     },
     "DAT227x":{
@@ -264,7 +264,7 @@ var courseVersion={
     },
     "DAT249x":{
         "currentVersion":"2018_T3",
-        "courseName":"資料分析的倫理與道德"
+        "courseName":"資料分析的道德與法律"
     },
     "AZURE204x":{
         "currentVersion":"2018_T2",
@@ -279,7 +279,7 @@ var courseVersion={
         "courseName":"Programming with Python for Data Science"
     },
     "DAT101x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T4",
         "courseName":"資料科學導論"
     },
     "DAT213x":{
@@ -291,35 +291,35 @@ var courseVersion={
         "courseName":"機器學習數學精要-Python版"
     },
     "DAT273x":{
-        "currentVersion":"2018_T3",
+        "currentVersion":"2018_T4",
         "courseName":"資料科學研究方法-Python版"
     },
     "DAT275x":{
-        "currentVersion":"2018_T3",
+        "currentVersion":"2018_T4",
         "courseName":"機器學習原理-Python版"
     },
     "DEV290x":{
-        "currentVersion":"2018_T3",
+        "currentVersion":"2018_T4",
         "courseName":"電腦視覺與影像分析"
     },
     "DAT280x":{
-        "currentVersion":"2018_T3",
+        "currentVersion":"2018_T4",
         "courseName":"Essential Math for Machine Learning: R Edition"
     },
     "DAT274x":{
-        "currentVersion":"2018_T3",
+        "currentVersion":"2018_T4",
         "courseName":"Data Science Research Methods: R Edition"
     },
     "DAT276x":{
-        "currentVersion":"2018_T3",
+        "currentVersion":"2018_T4",
         "courseName":"Principles of Machine Learning: R Edition"
     },
     "DAT102x":{
-        "currentVersion":"2018_T3",
+        "currentVersion":"2018_T4",
         "courseName":"Microsoft Professional Capstone : Data Science"
     },
     "DAT264x":{
-        "currentVersion":"2018_T3",
+        "currentVersion":"2018_T4",
         "courseName":"期末整合專案 - 人工智慧"
     }
     
