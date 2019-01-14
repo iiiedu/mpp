@@ -338,6 +338,10 @@ var courseVersion={
         "currentVersion":"2018_T2",
         "courseName":"Orchestrating Big Data with Azure Data Factory"
     },
+    "DEV287x":{
+        "currentVersion":"2018_T4",
+        "courseName":"Speech Recognition Systems"
+    }
 
     
 };
