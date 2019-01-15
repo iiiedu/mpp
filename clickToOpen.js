@@ -8,7 +8,14 @@ function courseLinkConversion(courseNumber){
 
 function courseImageLinkConversion(courseNumber){
     console.log(courseNumber);
-    var courseImageLink = "https://openedx.iiiedu.org.tw/asset-v1:Microsoft+" + courseNumber + "+"+courseVersion[courseNumber]["currentVersion"]+"+type@asset+block@course_image.png";
+    var courseImageLink;
+    if(courseVersion[courseNumber]["currentVersion"].substring(0,4)=="2019")
+    {
+        courseImageLink = "https://openedx.iiiedu.org.tw/asset-v1:Microsoft+" + courseNumber + "+"+courseVersion[courseNumber]["currentVersion"]+"+type@asset+block@"+courseNumber+"-edX-378_225.png";
+    }else
+    {
+        courseImageLink = "https://openedx.iiiedu.org.tw/asset-v1:Microsoft+" + courseNumber + "+"+courseVersion[courseNumber]["currentVersion"]+"+type@asset+block@course_image.png";
+    }
     
     console.log(courseImageLink);
     
@@ -341,6 +348,10 @@ var courseVersion={
     "DEV287x":{
         "currentVersion":"2018_T4",
         "courseName":"Speech Recognition Systems"
+    },
+    "AZ-900":{
+        "currentVersion":"2019_T1",
+        "courseName":"Microsoft Azure Fundamentals"
     }
 
     
