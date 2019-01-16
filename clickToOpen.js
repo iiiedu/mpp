@@ -9,6 +9,7 @@ function courseLinkConversion(courseNumber){
 function courseImageLinkConversion(courseNumber){
     console.log(courseNumber);
     var courseImageLink;
+    /*
     if(courseVersion[courseNumber]["currentVersion"].substring(0,4)=="2019")
     {
         courseImageLink = "https://openedx.iiiedu.org.tw/asset-v1:Microsoft+" + courseNumber + "+"+courseVersion[courseNumber]["currentVersion"]+"+type@asset+block@"+courseNumber+"-edX-378_225.png";
@@ -16,7 +17,8 @@ function courseImageLinkConversion(courseNumber){
     {
         courseImageLink = "https://openedx.iiiedu.org.tw/asset-v1:Microsoft+" + courseNumber + "+"+courseVersion[courseNumber]["currentVersion"]+"+type@asset+block@course_image.png";
     }
-    
+    */
+   courseImageLink = "https://openedx.iiiedu.org.tw/asset-v1:Microsoft+" + courseNumber + "+"+courseVersion[courseNumber]["currentVersion"]+"+type@asset+block@course_image.png";
     console.log(courseImageLink);
     
     return courseImageLink;
@@ -352,6 +354,42 @@ var courseVersion={
     "AZ-900":{
         "currentVersion":"2019_T1",
         "courseName":"Microsoft Azure Fundamentals"
+    },
+    "AZ-100.1":{
+        "currentVersion":"2019_T1",
+        "courseName":"Managing Azure Subscriptions and Resources"
+    },
+    "AZ-100.2":{
+        "currentVersion":"2019_T1",
+        "courseName":"Implementing and Managing Storage"
+    },
+    "AZ-100.3":{
+        "currentVersion":"2019_T1",
+        "courseName":"Deploying and Managing Virtual Machines"
+    },
+    "AZ-100.4":{
+        "currentVersion":"2019_T1",
+        "courseName":"Configure and Manage Virtual Networks"
+    },
+    "AZ-100.5":{
+        "currentVersion":"2019_T1",
+        "courseName":"Manage Identities"
+    },
+    "AZ-101.1":{
+        "currentVersion":"2019_T1",
+        "courseName":"Migrate Servers to Azure"
+    },
+    "AZ-101.2":{
+        "currentVersion":"2019_T1",
+        "courseName":"Implement and Manage Application Services"
+    },
+    "AZ-101.3":{
+        "currentVersion":"2019_T1",
+        "courseName":"Implement Advanced Virtual Networking"
+    },
+    "AZ-101.4":{
+        "currentVersion":"2019_T1",
+        "courseName":"Secure Identities"
     }
 
     
