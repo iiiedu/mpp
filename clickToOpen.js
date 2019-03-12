@@ -112,7 +112,7 @@ var courseVersion={
         "courseName":"Building Your Azure Skills Toolkit"
     },
     "DAT229x":{
-        "currentVersion":"2018_T2",
+        "currentVersion":"2018_T4",
         "courseName":"Introduction to Big Data"
     },
     "DAT217x":{
